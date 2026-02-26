@@ -1,0 +1,9 @@
+{
+    "type": "audio_event",
+    "raw_text": "I like the little girl at the square. That's what I like about that. I like that girl. Yeah. Would you like a round of show? Yeah. Yeah. They are nice. Yeah. I really like that. I don't know what you're doing with that. We're only getting to do that. Yeah. Thank you.",
+    "summary": "I like the little girl at the square. That's what I like about that. I like that girl. Would you like a round of show? Yeah. They are nice.",
+    "entities": [],
+    "timestamp": "2026-02-17 16:28:32",
+    "transcript": "I like the little girl at the square. That's what I like about that. I like that girl. Yeah. Would you like a round of show? Yeah. Yeah. They are nice. Yeah. I really like that. I don't know what you're doing with that. We're only getting to do that. Yeah. Thank you.",
+    "audio_file": "audio.wav"
+}
